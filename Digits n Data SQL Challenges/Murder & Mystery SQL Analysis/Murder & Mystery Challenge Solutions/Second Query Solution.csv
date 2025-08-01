@@ -1,0 +1,11 @@
+case_name,crime_type,crime_date,location,suspect_name,age,gender,criminal_record,relationship_with_victim,status
+"Downtown Apartment Murder",Murder,2025-02-10,"Downtown, NY","Michael Burns",34,Male,1,Neighbor,"Under Surveillance"
+"Downtown Apartment Murder",Murder,2025-02-10,"Downtown, NY","Sara Jones",29,Female,0,"Business Partner",Cleared
+"Highway Robbery Incident",Robbery,2025-01-15,"I-95 Highway, NJ","Tom Richardson",40,Male,1,Unknown,Arrested
+"Corporate Fraud Case",Fraud,2024-12-20,"Wall Street, NY","Lisa Carter",45,Female,1,"Finance Manager","Under Surveillance"
+"Park Assault Case",Assault,2025-02-05,"Central Park, NY","James Smith",30,Male,0,Acquaintance,Cleared
+"Suburban Homicide",Murder,2024-11-30,"Brooklyn, NY","Oliver King",38,Male,1,"Family Friend",Arrested
+"Bank Robbery",Robbery,2025-01-25,"Fifth Avenue, NY","Emma Taylor",28,Female,0,Ex-Employee,"Under Surveillance"
+"Domestic Dispute Turned Murder",Murder,2024-12-15,"Queens, NY","Daniel Foster",32,Male,1,Spouse,Arrested
+"Hit and Run Assault",Assault,2025-02-18,"Broadway, NY","Sophia Martinez",27,Female,0,Friend,Cleared
+"Pension Fund Fraud",Fraud,2024-12-10,"New Jersey, NJ","Andrew Cooper",50,Male,1,Co-worker,"Under Surveillance"

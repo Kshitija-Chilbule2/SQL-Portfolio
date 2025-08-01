@@ -1,0 +1,11 @@
+case_name,crime_type,Total_Victims
+"Bank Robbery",Robbery,1
+"Corporate Fraud Case",Fraud,1
+"Domestic Dispute Turned Murder",Murder,1
+"Downtown Apartment Murder",Murder,1
+"Highway Robbery Incident",Robbery,1
+"Hit and Run Assault",Assault,1
+"Park Assault Case",Assault,1
+"Pension Fund Fraud",Fraud,1
+"Suburban Homicide",Murder,1
+"Warehouse Shooting",Murder,1

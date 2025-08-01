@@ -1,0 +1,3 @@
+session_id,user_id,workout_date,duration_minutes,calories_burned,notes,intensity_level
+2,2,2025-03-02,45,400,"Felt strong today.",Medium
+7,2,2025-03-07,40,350,"Focused on form.",Low
