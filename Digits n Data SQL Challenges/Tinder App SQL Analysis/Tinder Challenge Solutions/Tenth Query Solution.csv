@@ -1,0 +1,16 @@
+swipe_id,swiper_id,swiped_id,swipe_type,interaction_type
+1,1,2,Like,Positive
+2,2,3,Like,Positive
+3,3,4,Dislike,Negative
+4,4,5,Like,Positive
+5,5,6,Like,Positive
+6,6,7,Dislike,Negative
+7,7,8,Like,Positive
+8,8,9,Dislike,Negative
+9,9,10,Like,Positive
+10,10,11,Like,Positive
+11,11,12,Dislike,Negative
+12,12,13,Like,Positive
+13,13,14,Dislike,Negative
+14,14,15,Like,Positive
+15,15,1,Like,Positive

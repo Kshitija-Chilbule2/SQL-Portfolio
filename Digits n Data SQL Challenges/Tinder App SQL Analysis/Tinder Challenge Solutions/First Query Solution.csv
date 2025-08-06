@@ -1,0 +1,16 @@
+user_id,name,age,gender,location
+1,Alice,25,Female,"New York"
+2,Bob,28,Male,"Los Angeles"
+3,Charlie,30,Male,Chicago
+4,David,22,Male,Houston
+5,Emma,26,Female,"San Francisco"
+6,Fiona,27,Female,"Los Angeles"
+7,George,29,Male,Boston
+8,Hannah,24,Female,Miami
+9,Isaac,31,Male,Dallas
+10,Julia,23,Female,Austin
+11,Kevin,28,Male,Denver
+12,Laura,26,Female,"Las Vegas"
+13,Mike,32,Male,Phoenix
+14,Nina,29,Female,Philadelphia
+15,Oscar,27,Male,Atlanta
